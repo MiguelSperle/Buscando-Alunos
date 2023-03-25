@@ -37,7 +37,7 @@ export default function(){
    
     function handleClick(){
       if(valueMessage.message === ""){ // verificao de vazio o campo
-        return toast.error("Campo vazio")
+        return toast.error("Campo vazio, coloque Miguel Sperle para testar.")
       } 
       const verificationName = users.find((user) => user.name.toLowerCase() === valueMessage.message.toLowerCase())
       // o find faz com que eu encontre algo em especifico, no caso a cima o name
