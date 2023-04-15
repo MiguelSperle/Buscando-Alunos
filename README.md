@@ -12,7 +12,7 @@ Neste projeto eu pude treinar meu conhecimento em interface, consumir Api e eu t
 
 <h2>Build process</h2>
   <ul>
-    <li>React</li>
+    <li>React JS</li>
     <li>Mirage JS</li>
     <li>Styled Components</li>
   </ul>
